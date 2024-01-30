@@ -1,4 +1,4 @@
-# oibsip_taskno1
+# Codsoft_task3
 # Simple Calculator
 
 This is a simple calculator built using HTML and CSS. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.
@@ -25,4 +25,4 @@ To use this calculator, you don't need to install any software. Simply open the 
 
 ## Support
 
-If you encounter any issues or have any questions regarding this calculator, please feel free to contact us at Reemabdella702@gmail.com.
+If you encounter any issues or have any questions regarding this calculator, please feel free to contact me at Reemabdella702@gmail.com.
